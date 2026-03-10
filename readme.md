@@ -149,9 +149,8 @@ Windows allows `.bat` files to be triggered using keyboard shortcuts.
 
 Example:
 
-Single DisplayPort: Ctrl + Alt + 1
-
-Enable PBP: Ctrl + Alt + 2
+> Single DisplayPort: Ctrl + Alt + 1
+> Enable PBP: Ctrl + Alt + 2
 
 
 ## Stream Deck Setup
